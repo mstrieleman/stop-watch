@@ -1,0 +1,48 @@
+/* stylelint-disable */
+
+#stop-watch {
+  font-size: 115px;
+}
+
+#start-button {
+  background-color: #d0451b;
+  border-radius: 42px;
+  border: 1px solid #942911;
+  display: inline-block;
+  cursor: pointer;
+  color: #fff;
+  font-family: Courier New;
+  font-size: 20px;
+  padding: 5px 15px;
+  text-decoration: none;
+  text-shadow: 1px 2px 0 #854629;
+}
+
+#start-button:hover {
+  background-color: #bc3315;
+}
+
+#start-button:active {
+  position: relative;
+  top: 1px;
+}
+
+#coming-soon {
+  margin-top: 3%;
+  font-size: 15px;
+}
+
+#features {
+  color: #ff851b;
+  font-size: 19px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+body {
+  color: white;
+  background-color: #85144b;
+  font-family: Courier New;
+}
