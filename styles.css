@@ -27,6 +27,29 @@
   top: 1px;
 }
 
+#stop-button {
+  background-color: #d0451b;
+  border-radius: 42px;
+  border: 1px solid #942911;
+  display: inline-block;
+  cursor: pointer;
+  color: #fff;
+  font-family: Courier New;
+  font-size: 20px;
+  padding: 5px 15px;
+  text-decoration: none;
+  text-shadow: 1px 2px 0 #854629;
+}
+
+#stop-button:hover {
+  background-color: #bc3315;
+}
+
+#stop-button:active {
+  position: relative;
+  top: 1px;
+}
+
 #coming-soon {
   margin-top: 3%;
   font-size: 15px;
